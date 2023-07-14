@@ -1,0 +1,29 @@
+.block-button {
+    padding: 10px 20px;
+    margin-left: auto;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    font-weight: 200;
+    font-family: "Poppins", sans-serif;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
+}
+
+.block-button:hover {
+    background: rgba(117, 248, 163, 1);
+    border-color: black;
+    color: black;
+}
+
+.block-button2 {
+    padding: 10px 20px;
+    margin-left: auto;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    font-weight: 200;
+    font-family: "Poppins", sans-serif;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
+}
